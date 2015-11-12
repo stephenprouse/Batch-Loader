@@ -1,0 +1,6 @@
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\bin\Debug\Batch Loader.exe.config
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\bin\Debug\Batch Loader.exe
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\bin\Debug\Batch Loader.pdb
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\obj\Debug\Batch Loader.exe
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\obj\Debug\Batch Loader.pdb
+C:\Users\sprouse.UCHS_DOM1\Dropbox\Projects\Visual Studio 2015\Projects\QueryInterface\Batch Loader\obj\Debug\Batch Loader.csprojResolveAssemblyReference.cache
